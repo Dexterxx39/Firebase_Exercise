@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Firebase_Exercise.app/Contents/MacOS/Firebase_Exercise">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>Firebase_Exercise.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Firebase_Exercise.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/ryu/DX212/Firebase_Exercise/Firebase_Exercise/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>Firebase_Exercise.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/ryu/DX212/Firebase_Exercise/Firebase_Exercise</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
